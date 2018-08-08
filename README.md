@@ -1,6 +1,7 @@
 <!DOCTYPE html>
+<html>
   <head>
   <title>Hello World</title>
   </head>
-  <p>s is my new project</p>
-  </html>
+  <p>This is my new project</p>
+</html>
